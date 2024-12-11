@@ -629,7 +629,7 @@ align-items: center;
 gap: 60px;
 align-self: stretch;
 background: #331436;
-height: 220px;
+height: 100px; 
 }
 
 .divFooter{
