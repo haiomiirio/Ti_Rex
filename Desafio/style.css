@@ -120,7 +120,7 @@ background: url(<path-to/images/image-1.png-image>) lightgray 50% / cover no-rep
 }
 
 .section-2{
-    border: 1px  solid rgb(224, 68, 68);
+   /*  border: 1px  solid rgb(224, 68, 68); */
     display: flex;
     /* padding: 60px 0px 60px 0px; */
     flex-direction: column;
